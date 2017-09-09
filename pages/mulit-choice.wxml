@@ -1,0 +1,8 @@
+<view>
+    <block wx:for='{{lists}}' wx:key wx:for-item='i'>
+        <view bindtap='selectTag' data-state='{{i.state}}' data-index='{{i.index}}'>
+            <text class='{{i.state? "checked" : ""}}'>{{i.txt}} : </text>
+            <text>state => {{i.state}}</text>
+        </view>
+    </block>
+</view>
