@@ -3,9 +3,12 @@
 ## Page
 
 * [Mulit Choice](./pages/mulit-choice/)
-  ![mulit choice](./example/img/mulit-choice.png)
+
+![mulit choice](./example/img/mulit-choice.png)
+
 * [Accordion](./pages/accordion/)
-  ![mulit choice](./example/img/accordion.png)
+
+![mulit choice](./example/img/accordion.png)
 
 ## Utils
 
