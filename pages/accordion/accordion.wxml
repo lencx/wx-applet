@@ -1,0 +1,21 @@
+<view class='container'>
+  <block wx:for='{{lists}}' wx:key wx:for-item='item'>
+    <view class='item {{item.class}}'>
+      <view class='item-title'>
+        <view class='title'><text>{{item.title}}</text></view>
+        <view class='sub'><text>{{item.sub}}</text></view>
+      </view>
+      <view class='item-cont'>
+        <block wx:for='{{item.content}}' wx:key wx:for-item='i'>
+          <view class='title {{(flag == i.id) ? "active" : ""}}' data-tid='{{i.id}}' bindtap='accordion'>
+            <text>{{i.title}}</text>
+            <image class='arrow-ico' src='/img/arrow.png'></image>
+          </view>
+          <view class='cont {{(flag == i.id) ? "" : "off"}}' style='height: {{(flag == i.id) ? i.height : 0}}rpx' data-tid='{{i.id}}'>
+            <text>{{i.content}}</text>
+          </view>
+        </block>
+      </view>
+    </view>
+  </block>
+</view>

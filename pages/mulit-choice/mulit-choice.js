@@ -39,7 +39,7 @@ Page({
     let _select = []
     this.data.lists.some(i => {
         if (i.state === true) {
-        _select.push(i)
+            _select.push(i)
         }
     })
 

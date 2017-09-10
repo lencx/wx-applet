@@ -1,0 +1,105 @@
+.container {
+  height: auto;
+  padding: 0 24rpx;
+  font-size: 32rpx;
+  color: #333;
+  background: #fff;
+}
+
+.item {
+  width: 100%;
+  background: #ffe;
+  box-shadow: 0 1rpx 3rpx #d2d2d2;
+  border-radius: 16rpx;
+  margin: 20rpx 0;
+  border: solid 6rpx #888;
+}
+
+.item-title {
+  width: 400rpx;
+  margin: 0 auto;
+  padding: 16rpx 0;
+  border-bottom-left-radius: 16rpx;
+  border-bottom-right-radius: 16rpx;
+  text-align: center;
+  color: #fff;
+  background: #fcc;
+}
+
+.item-title .sub {
+  font-size: 30rpx;
+  font-weight: 300;
+  color: #111;
+}
+
+/**
+* title
+*/
+
+.item-cont .title {
+  padding: 20rpx 24rpx;
+  border-bottom: solid 1rpx #ededed;
+}
+
+.item-cont .title:first-child {
+  border-top: solid 6rpx #888;
+  margin-top: 20rpx;
+}
+
+.item-cont .title .arrow-ico {
+  float: right;
+  width: 16rpx;
+  height: 26rpx;
+  margin-top: 12rpx;
+  transition: all 500ms ease;
+}
+
+.item-cont .active .arrow-ico {
+  transform: rotate(90deg);
+}
+
+.item-cont .title:last-child {
+  border-bottom: none;
+}
+
+.item-cont .ico {
+  width: 42rpx;
+  height: 42rpx;
+  vertical-align: -8rpx;
+  margin-right: 20rpx;
+}
+
+.item-cont .cont:last-child {
+  border-bottom-left-radius: 16rpx;
+  border-bottom-right-radius: 16rpx;
+}
+
+.cont {
+  height: 0;
+  overflow: hidden;
+  transition: all 800ms ease;
+  box-shadow: 0 0 16rpx #d2d2d2;
+  padding: 24rpx;
+}
+
+.off {
+  padding: 0;
+}
+
+.item-cont .cont>view {
+  padding: 10rpx 24rpx;
+  font-size: 30rpx;
+}
+
+.item-cont .cont>view:first-child {
+  padding-top: 30rpx;
+}
+
+.item-cont .cont>view:last-child {
+  padding-bottom: 30rpx;
+}
+
+.web-dev .item-title {
+  background: #f0a;
+  box-shadow: 0 5rpx 16rpx #f22;
+}
