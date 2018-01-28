@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="482px" height="311px" viewBox="0 0 482 311" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 25</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.3070831 0.1341 481.894183 0.1341 481.894183 311 0.3070831 311"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -1.000000)" id="Group-25">
+            <g transform="translate(0.000000, 0.955900)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-21"></g>
+                <polygon id="Fill-20" fill="#FFFFFF" mask="url(#mask-2)" points="0.3070831 311.134079 0.8906182 311.134079 0.8906182 0.134079 0.3070831 0.134079"></polygon>
+                <polygon id="Fill-22" fill="#FFFFFF" mask="url(#mask-2)" points="481.7235 311.134079 482.307035 311.134079 482.307035 0.134079 481.7235 0.134079"></polygon>
+                <polygon id="Fill-23" fill="#FFFFFF" mask="url(#mask-2)" points="0.3070831 0.7176 482.307083 0.7176 482.307083 0.1341103 0.3070831 0.1341103"></polygon>
+                <polygon id="Fill-24" fill="#FFFFFF" mask="url(#mask-2)" points="0.3070831 311.134079 482.307083 311.134079 482.307083 310.550589 0.3070831 310.550589"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

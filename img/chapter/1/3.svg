@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="93px" height="19px" viewBox="0 0 93 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <text id="(" font-family="TimesNewRomanPSMT, Times New Roman" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="7.625" y="12.7109375">(</tspan>
+            </text>
+            <text id="a" font-family="TimesNewRomanPS-ItalicMT, Times New Roman" font-size="12" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="12.3125" y="12.7109375">a</tspan>
+            </text>
+            <text id="−" font-family="Symbol" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="20.4375" y="11">−</tspan>
+            </text>
+            <text id="b" font-family="TimesNewRomanPS-ItalicMT, Times New Roman" font-size="12" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="29.3125" y="12.7109375">b</tspan>
+            </text>
+            <text id=")" font-family="TimesNewRomanPSMT, Times New Roman" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="35.25" y="12.7109375">)</tspan>
+            </text>
+            <text id="2" font-family="TimesNewRomanPSMT, Times New Roman" font-size="6.9375" font-weight="normal" fill="#000000">
+                <tspan x="39.5625" y="7.94226074">2</tspan>
+            </text>
+            <text id="+" font-family="Symbol" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="46.03125" y="11">+</tspan>
+            </text>
+            <text id="(" font-family="TimesNewRomanPSMT, Times New Roman" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="54.65625" y="12.7109375">(</tspan>
+            </text>
+            <text id="c" font-family="TimesNewRomanPS-ItalicMT, Times New Roman" font-size="12" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="59.09375" y="12.7109375">c</tspan>
+            </text>
+            <text id="−" font-family="Symbol" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="66.46875" y="11">−</tspan>
+            </text>
+            <text id="d" font-family="TimesNewRomanPS-ItalicMT, Times New Roman" font-size="12" font-style="italic" font-weight="normal" fill="#000000">
+                <tspan x="75.59375" y="12.7109375">d</tspan>
+            </text>
+            <text id=")" font-family="TimesNewRomanPSMT, Times New Roman" font-size="12" font-weight="normal" fill="#000000">
+                <tspan x="82.78125" y="12.7109375">)</tspan>
+            </text>
+            <text id="2" font-family="TimesNewRomanPSMT, Times New Roman" font-size="6.9375" font-weight="normal" fill="#000000">
+                <tspan x="87.09375" y="7.94226074">2</tspan>
+            </text>
+            <polyline id="Stroke-1" stroke="#000000" points="0.015625 12.84375 1.65625 11.609375 4.21875 17.109375 7.203125 0.953125 92.125 0.953125"></polyline>
+            <polygon id="Fill-2" fill="#000000" points="0 12.84375 1.65625 11.59375 4.21875 17.125 7.1875 0.9375 92.125 0.9375 92.125 1.53125 7.65625 1.53125 4.53125 18.6875 3.9375 18.6875 1 12.53125 0.21875 13.15625"></polygon>
+        </g>
+    </g>
+</svg>
